@@ -4,4 +4,4 @@
 
 1. [Bit-Shifting](https://github.com/PatbunNF/C-Programming/blob/master/Codes/Bit-Shifting.cpp)
 1. Factorial
-1. GCD & LCD
+1. GCD & LCM
